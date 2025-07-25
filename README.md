@@ -66,7 +66,8 @@ class ExampleAvatar extends StatelessWidget {
 
 ## 📷 Screenshot
 
-<img src="https://your-screenshot-host.com/google-style-avatar.png" width="160" />
+<img src="https://i.ibb.co/VWFfTjJL/Screenshot-287.png" width="600" />
+
 
 ## 📄 License
 This project is licensed under the MIT License.

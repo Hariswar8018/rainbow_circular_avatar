@@ -1,7 +1,9 @@
 name: rainbow_circular_avatar
 description: A customizable circular avatar widget for Flutter with colorful gradient borders and optional camera overlay.
 version: 0.0.1
-homepage: https://github:com/Hariswar8018/rainbow_circular_avatar
+homepage: https://github.com/Hariswar8018/rainbow_circular_avatar
+repository: https://github.com/Hariswar8018/rainbow_circular_avatar
+
 
 environment:
   sdk: ">=3.0.0 <4.0.0"
